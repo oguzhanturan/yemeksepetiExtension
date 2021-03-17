@@ -1,14 +1,9 @@
 
-BrowsingData API: Basics
+Yemek Sepeti Restorant Gizleme: V1
 =======
 
-A trivial usage example.
+Restoran listesi içerisinden görmek istemediğiniz restoranları restoran bazında gizlemek için google chrome eklentisi.
 
-[Zipfile](http://developer.chrome.com/extensions/examples/api/browsingData/basic.zip)
-
-Content is licensed under the [Google BSD License](https://developers.google.com/open-source/licenses/bsd).
-
-Calls
+Copyright
 -----
-
-* [browsingData.remove](https://developer.chrome.com/extensions/browsingData#method-remove)
+Content is licensed under the [Google BSD License](https://developers.google.com/open-source/licenses/bsd).
